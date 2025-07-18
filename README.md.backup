@@ -1,5 +1,21 @@
 # AD-Setup Enterprise Edition 🌲
 
+<div align="center">
+
+![Tiation Ecosystem](https://img.shields.io/badge/🔮_TIATION_ECOSYSTEM-tiation_active_directory_setup-00FFFF?style=for-the-badge&labelColor=0A0A0A&color=00FFFF)
+
+**Enterprise-grade solution in the Tiation ecosystem**
+
+*Professional • Scalable • Mission-Driven*
+
+[![🌐_Live_Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Project-00FFFF?style=flat-square&labelColor=0A0A0A)](https://github.com/tiation/tiation-active-directory-setup)
+[![📚_Documentation](https://img.shields.io/badge/📚_Documentation-Complete-007FFF?style=flat-square&labelColor=0A0A0A)](https://github.com/tiation/tiation-active-directory-setup)
+[![⚡_Status](https://img.shields.io/badge/⚡_Status-Active_Development-FF00FF?style=flat-square&labelColor=0A0A0A)](https://github.com/tiation/tiation-active-directory-setup)
+[![📄_License](https://img.shields.io/badge/📄_License-MIT-00FFFF?style=flat-square&labelColor=0A0A0A)](https://github.com/tiation/tiation-active-directory-setup)
+
+</div>
+
+---
 [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](LICENSE)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/)
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions)
@@ -213,3 +229,58 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 <p align="center">
   Made with ❤️ by the AD-Setup Team
 </p>
+
+---
+
+## 🔮 Tiation Ecosystem
+
+This repository is part of the Tiation ecosystem. Explore related projects:
+
+- [🌟 TiaAstor](https://github.com/TiaAstor/TiaAstor) - Personal brand and story
+- [🐰 ChaseWhiteRabbit NGO](https://github.com/tiation/tiation-chase-white-rabbit-ngo) - Social impact initiatives
+- [🏗️ Infrastructure](https://github.com/tiation/tiation-rigger-infrastructure) - Enterprise infrastructure
+- [🤖 AI Agents](https://github.com/tiation/tiation-ai-agents) - Intelligent automation
+- [📝 CMS](https://github.com/tiation/tiation-cms) - Content management system
+- [⚡ Terminal Workflows](https://github.com/tiation/tiation-terminal-workflows) - Developer tools
+
+---
+*Built with 💜 by the Tiation team*
+## 🎭 The Story Behind This Project
+
+This repository started as a collection of ideas. It quickly grew into something more meaningful—a collaborative effort from dedicated individuals who believe in making things better, faster, and more enjoyable.
+
+### Why It Exists
+
+- **To Solve a Common Problem**: Each of us faced a similar challenge, so we crafted this to make life easier.
+- **To Share Knowledge**: Open source is about sharing what we learn and how we solve problems.
+- **To Empower Developers**: You should spend your time innovating, not reinventing the wheel. This is our small contribution to that vision.
+
+### What You Can Expect
+
+- **Well-Documented Code**: We believe in clear, understandable documentation so you can get up to speed quickly.
+- **Community**: Join our community, contribute, and improve the project together.
+- **Continuous Improvement**: We are committed to making this project better over time with your help and feedback.
+
+**Happy coding and contributing!**
+
+---
+
+## 🎭 The Story Behind This Project
+
+This repository started as a collection of ideas. It quickly grew into something more meaningful—a collaborative effort from dedicated individuals who believe in making things better, faster, and more enjoyable.
+
+### Why It Exists
+
+- **To Solve a Common Problem**: Each of us faced a similar challenge, so we crafted this to make life easier.
+- **To Share Knowledge**: Open source is about sharing what we learn and how we solve problems.
+- **To Empower Developers**: You should spend your time innovating, not reinventing the wheel. This is our small contribution to that vision.
+
+### What You Can Expect
+
+- **Well-Documented Code**: We believe in clear, understandable documentation so you can get up to speed quickly.
+- **Community**: Join our community, contribute, and improve the project together.
+- **Continuous Improvement**: We are committed to making this project better over time with your help and feedback.
+
+**Happy coding and contributing!**
+
+---
